@@ -1,24 +1,79 @@
-<h1 align="center">Chào 👋, mình là KimThinh212</h1>
-<h3 align="center">Một nhà phân tích dữ liệu và AI đầy nhiệt huyết đến từ Việt Nam</h3>
+<h1 align="center">Chào 👋, mình là Kim Thịnh (KimThinh212)</h1>
+<h3 align="center">Sinh viên Khoa học Dữ liệu | AI & Machine Learning Enthusiast từ Việt Nam 🇻🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimthinh212&label=Profile%20views&color=0e75b6&style=flat" alt="kimthinh212
-
-" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimthinh212" alt="kimthinh212" /></a> </p>
-
-<h3 align="left">Kết nối với mình:</h3>
-<p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/kimthnhvbch" <a href="https://fb.com/https://www.facebook.com/kimthinh.vobach?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kimthnhvbch" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kimthinh.vobach?locale=vi_vn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kimthinh.vobach?locale=vi_vn" height="30" width="40" /></a>
-<a <a href="https://instagram.com/https://www.instagram.com/kimthin_2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kimthin_2102/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kimthinhvobach7605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kimthinhvobach7605" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kimthinh212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kimthinh212/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimthinh212&label=Profile%20views&color=0e75b6&style=flat" alt="kimthinh212" />
+  <img src="https://img.shields.io/badge/Main_Focus-Computer_Vision-blue?style=flat&logo=opencv" alt="Focus" />
 </p>
 
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="seaborn" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimthinh212&theme=radical&column=7" alt="kimthinh212" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimthinh212&show_icons=true&locale=en&layout=compact" alt="kimthinh212" /></p>
+---
 
-<p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimthinh212&show_icons=true&locale=en" alt="kimthinh212" /></p>
+### 👨‍💻 Giới thiệu về mình
+- 🎓 Hiện là sinh viên chuyên ngành **Khoa học Dữ liệu** tại Trường Đại học Công Thương TP.HCM (**HUIT**).
+- 🧠 Đang thực hiện đồ án tốt nghiệp về **Nhận diện khuôn mặt** (So sánh FaceNet & FaceNet512).
+- 🚀 Đam mê xây dựng các sản phẩm AI thực tế và phân tích dữ liệu kinh doanh.
+- ️⚽ Đam mê bóng đá.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimthinh212&" alt="kimthinh212" /></p>
+---
+
+### 🔬 Dự án tiêu biểu
+- **Face Recognition Thesis:** Đánh giá kiến trúc FaceNet trên bộ dữ liệu LFW sử dụng DeepFace framework.
+- **Vietnamese NLP:** Phân loại cảm xúc văn bản tiếng Việt sử dụng mô hình **PhoBERT**.
+- **ML from Scratch:** Triển khai Logistic Regression và các thuật toán cơ bản chỉ với NumPy.
+- **Financial Forecast:** Lập mô hình tài chính và dự báo kinh doanh cho dự án khởi nghiệp 1 tỷ VNĐ.
+
+---
+
+### 🛠 Ngôn ngữ và Công cụ
+**Ngôn ngữ lập trình**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**AI & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+**Công cụ & Khác**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
+
+---
+
+### 📊 Thống kê GitHub
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimthinh212&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimthinh212&show_icons=true&locale=en&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimthinh212&theme=radical" alt="kimthinh212" />
+</p>
+
+---
+
+### 📫 Kết nối với mình:
+<p align="left">
+  <a href="https://www.facebook.com/kimthinh.vobach" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kimthin_2102/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/kimthnhvbch" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kimthinh212/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@kimthinhvobach7605" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
