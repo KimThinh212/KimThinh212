@@ -78,7 +78,3 @@
   <a href="https://www.youtube.com/@kimthinhvobach7605" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
----
-
-🐍 Đóng góp snake 
-<p align="center"> <img src="https://raw.githubusercontent.com/kimthinh212/kimthinh212/output/snake.svg" alt="Snake animation" /> </p>
