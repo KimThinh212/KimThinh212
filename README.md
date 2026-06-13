@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/kimthinh212/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=kimthinh212&color=00f7ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Main_Focus-Computer_Vision-00F7FF?style=flat-square&logo=opencv&logoColor=black" alt="Focus" />
 </p>
