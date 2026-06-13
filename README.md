@@ -21,10 +21,11 @@
 ---
 
 ### 🔬 Dự án tiêu biểu
-- **Face Recognition Thesis:** Đánh giá kiến trúc FaceNet trên bộ dữ liệu LFW sử dụng DeepFace framework.
+- **Face Recognition Thesis:** Đánh giá kiến trúc FaceNet và FaceNet512 trên bộ dữ liệu LFW sử dụng DeepFace framework.
 - **Vietnamese NLP:** Phân loại cảm xúc văn bản tiếng Việt sử dụng mô hình **PhoBERT**.
 - **ML from Scratch:** Triển khai Logistic Regression và các thuật toán cơ bản chỉ với NumPy.
 - **Financial Forecast:** Lập mô hình tài chính và dự báo kinh doanh cho dự án khởi nghiệp 1 tỷ VNĐ.
+- **Deep Learning:** Xây dựng quy trình học sâu toàn diện giúp phân đoạn và phân loại 30 loại khối u não từ ảnh chụp MRI
 
 ---
 
