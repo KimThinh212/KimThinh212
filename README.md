@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=kimthinh212&theme=radical&column=7" alt="kimthinh212" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=kimthinh212&theme=radical&column=7" alt="kimthinh212" /></a>
 </p>
 
 ---
