@@ -195,6 +195,10 @@
       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" />
       <br>Azure
     </td>
+    <td align="center" width="90">
+      <img src="images/apachespark-original.svg" width="45" height="45" />
+      <br>Spark
+    </td>
   </tr>
 </table>
 </div>
