@@ -29,32 +29,173 @@
 
 ---
 
-### 🛠 Ngôn ngữ và Công cụ
-**Ngôn ngữ lập trình**
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 💻 Tech Stack
 
-**AI & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+<div align="center">
 
-**Công cụ & Khác**
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
+<table>
+
+<tr>
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" />
+  <br>Python
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=r" width="45" height="45" />
+  <br>R
+</td>
+
+<td align="center" width="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" />
+  <br>SQL
+</td>
+
+
+<td align="center" width="90">
+  <img src="images/excel.svg" width="45" height="45" />
+  <br>Excel
+</td>
+
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" />
+  <br>MySQL
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" />
+  <br>SQLite
+</td>
+
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" />
+  <br>Docker
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" />
+  <br>Git
+</td>
+
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" />
+  <br>GitHub
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" />
+  <br>Anaconda
+</td>
+
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" />
+  <br>PyTorch
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" />
+  <br>TensorFlow
+</td>
+
+<td align="center" width="90">
+  <img src="images/huggingface.svg" width="45" height="45" />
+  <br>Hugging Face
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" />
+  <br>Scikit
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" />
+  <br>Flask
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" />
+  <br>FastAPI
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" />
+  <br>OpenCV
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" />
+  <br>MongoDB
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" />
+  <br>Azure
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+  <img src="images/pandas.svg" width="45" height="45" />
+  <br>Pandas
+</td>
+
+<td align="center" width="90">
+  <img src="images/numpy.svg" width="45" height="45" />
+  <br>NumPy
+</td>
+
+<td align="center" width="90">
+  <img src="images/matplotlib.svg" width="45" height="45" />
+  <br>Matplotlib
+</td>
+
+<td align="center" width="90">
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" height="45" />
+  <br>Power BI
+</td>
+
+<td align="center" width="90">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" />
+  <br>Tableau
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" />
+  <br>VS Code
+</td>
+
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=md" width="45" height="45" />
+  <br>Markdown
+</td>
+
+<td align="center" width="90">
+  <img src="images/mlflow.svg" width="45" height="45" />
+  <br>MLflow
+</td>
+
+<td align="center" width="90">
+  <img src="images/plotly.svg" width="45" height="45" />
+  <br>Plotly
+</td>
+
+<td align="center" width="90">
+  <img src="images/jupyter.svg" width="45" height="45" />
+  <br>Jupyter
+</td>
+
+</tr>
+
+
+</table>
+
+</div>
 
 ---
 
@@ -77,5 +218,14 @@
   <a href="https://www.kaggle.com/kimthnhvbch" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="https://leetcode.com/u/kimthinh212/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.youtube.com/@kimthinhvobach7605" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KimThinh212/KimThinh212/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
