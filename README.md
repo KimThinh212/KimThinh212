@@ -1,5 +1,7 @@
-<h1 align="center">Chào 👋, mình là Kim Thịnh (KimThinh212)</h1>
-<h3 align="center">Sinh viên Khoa học Dữ liệu | AI & Machine Learning Enthusiast từ Việt Nam 🇻🇳</h3>
+<div align="center">
+
+<h1>Chào 👋, mình là Kim Thịnh (KimThinh212)</h1>
+<h3>Sinh viên Khoa học Dữ liệu | AI & Machine Learning Enthusiast từ Việt Nam 🇻🇳</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Realtime+Analytics;Big+Data+Engineering;Data+Visualization" />
 
