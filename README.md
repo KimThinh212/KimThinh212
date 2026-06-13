@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Chào 👋, mình là Kim Thịnh (KimThinh212)</h1>
-<h3>Sinh viên Khoa học Dữ liệu | AI & Machine Learning Enthusiast từ Việt Nam 🇻🇳</h3>
+<h1>Hi 👋, I'm Kim Thinh (KimThinh212)</h1>
+<h3>Data Science Student | AI & Machine Learning Enthusiast from Vietnam 🇻🇳</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Deep+Learning;Realtime+Analytics;Big+Data+Engineering;Data+Visualization" />
 
@@ -18,26 +18,28 @@
 
 ---
 
-### 👨‍💻 Giới thiệu về mình
-- 🎓 Hiện là sinh viên chuyên ngành **Khoa học Dữ liệu** tại Trường Đại học Công Thương TP.HCM (**HUIT**).
-- 🧠 Đang thực hiện đồ án tốt nghiệp về **Nhận diện khuôn mặt** (So sánh FaceNet & FaceNet512).
-- 🚀 Đam mê xây dựng các sản phẩm AI thực tế và phân tích dữ liệu kinh doanh.
-- ️⚽ Đam mê bóng đá.
+### 👨‍💻 About Me
+- 🎓 Currently a senior **Data Science** student at Ho Chi Minh City University of Industry and Trade (**HUIT**).
+- 🧠 Developing a graduation thesis on **Face Recognition** (Comparing FaceNet & FaceNet512 architectures).
+- 🚀 Passionate about building real-world AI applications and business data analytics.
+- ⚽ Football enthusiast.
 
 ---
 
-### 🔬 Dự án tiêu biểu
-- **Face Recognition Thesis:** Đánh giá kiến trúc FaceNet và FaceNet512 trên bộ dữ liệu LFW sử dụng DeepFace framework.
-- **Vietnamese NLP:** Phân loại cảm xúc văn bản tiếng Việt sử dụng mô hình **PhoBERT**.
-- **ML from Scratch:** Triển khai Logistic Regression và các thuật toán cơ bản chỉ với NumPy.
-- **Financial Forecast:** Lập mô hình tài chính và dự báo kinh doanh cho dự án khởi nghiệp 1 tỷ VNĐ.
-- **Deep Learning:** Xây dựng quy trình học sâu toàn diện giúp phân đoạn và phân loại 30 loại khối u não từ ảnh chụp MRI
+### 🔬 Featured Projects
+- **Face Recognition Thesis:** Evaluated FaceNet and FaceNet512 architectures on the LFW dataset using the DeepFace framework.
+- **Vietnamese NLP:** Sentiment analysis for Vietnamese text utilizing the **PhoBERT** model.
+- **Metadata Normalizer (ETECHS Internship):** Developed a Pydantic-based data normalization module for MongoDB metadata collections, incorporating custom validators, indexes, and full unit test coverage using PyTest.
+- **E-Commerce Analytics Platform:** Co-developed an end-to-end data warehouse and business intelligence platform. Designed ETL pipelines using SSIS, built OLAP cubes in SSAS, performed EDA in Python, and integrated a FastAPI prediction backend with a Streamlit UI.
+- **ML from Scratch:** Built Logistic Regression and core machine learning algorithms from scratch using only NumPy.
+- **Financial Forecast:** Developed financial forecasting models for a startup project valued at 1 billion VND.
+- **Deep Learning - Brain Tumor Segmentation:** Built an end-to-end deep learning pipeline for segmenting and classifying 30 types of brain tumors from MRI scans.
 
 ---
 
 ### 💻 Tech Stack
 
-#### 🚀 Ngôn ngữ lập trình
+#### 🚀 Programming Languages
 <div align="center">
 <table>
   <tr>
@@ -91,7 +93,7 @@
 </table>
 </div>
 
-#### 📊 AI & Khoa học Dữ liệu
+#### 📊 AI & Data Science
 <div align="center">
 <table>
   <tr>
@@ -149,7 +151,7 @@
 </table>
 </div>
 
-#### 🗄️ Cơ sở dữ liệu & DevOps / Cloud
+#### 🗄️ Databases & DevOps / Cloud
 <div align="center">
 <table>
   <tr>
@@ -195,7 +197,7 @@
 </table>
 </div>
 
-#### 🛠️ Công cụ & Hệ điều hành
+#### 🛠️ Tools & Operating Systems
 <div align="center">
 <table>
   <tr>
@@ -259,7 +261,7 @@
 
 ---
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimthinh212&show_icons=true&locale=en&layout=compact&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kimthinh212&show_icons=true&locale=en&theme=radical" />
@@ -271,7 +273,7 @@
 
 ---
 
-### 📫 Kết nối với mình
+### 📫 Connect with me
 <p align="center">
   <a href="https://www.facebook.com/kimthinh.vobach" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/kimthin_2102/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -286,8 +288,6 @@
 
 ### 🐍 Contribution Snake
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KimThinh212/KimThinh212/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
