@@ -8,8 +8,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimthinh212&label=Profile%20views&color=0e75b6&style=flat" alt="kimthinh212" />
-  <img src="https://img.shields.io/badge/Main_Focus-Computer_Vision-blue?style=flat&logo=opencv" alt="Focus" />
+  <img src="https://profile-counter.glitch.me/kimthinh212/count.svg" alt="Visitor Count" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Main_Focus-Computer_Vision-00F7FF?style=flat-square&logo=opencv&logoColor=black" alt="Focus" />
 </p>
 
 <p align="center">
@@ -270,6 +271,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimthinh212&theme=radical" alt="kimthinh212" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
