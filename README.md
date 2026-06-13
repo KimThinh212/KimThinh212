@@ -29,12 +29,12 @@
 ### 🔬 Featured Projects
 - **Face Recognition Thesis:** Evaluated FaceNet and FaceNet512 architectures on the LFW dataset using the DeepFace framework.
 - **Vietnamese NLP:** Sentiment analysis for Vietnamese text utilizing the **PhoBERT** model.
-- **Metadata Normalizer (ETECHS Internship):** Developed a Pydantic-based data normalization module for MongoDB metadata collections, incorporating custom validators, indexes, and full unit test coverage using PyTest.
-- **E-Commerce Analytics Platform:** Co-developed an end-to-end data warehouse and business intelligence platform. Designed ETL pipelines using SSIS, built OLAP cubes in SSAS, performed EDA in Python, and integrated a FastAPI prediction backend with a Streamlit UI.
-- **Distributed Credit Card Fraud Detection (Big Data):** Built an end-to-end big data pipeline for detecting credit card fraud using Apache SystemDS and Apache Spark, containerized with Docker. Developed preprocessing, training, and evaluation scripts in DML (Declarative Machine Learning), deploying a distributed logistic regression model and monitoring cluster performance via the Spark Web UI.
+- **Metadata Normalizer (ETECHS Internship):** Developed a Pydantic-based MongoDB data normalization module with PyTest coverage.
+- **E-Commerce Analytics Platform:** Built a data warehouse and BI platform using SSIS/SSAS, Python, FastAPI, and Streamlit.
+- **Distributed Credit Card Fraud Detection (Big Data):** Implemented an end-to-end fraud detection pipeline using Apache SystemDS, Spark, and Docker.
 - **ML from Scratch:** Built Logistic Regression and core machine learning algorithms from scratch using only NumPy.
 - **Financial Forecast:** Developed financial forecasting models for a startup project valued at 1 billion VND.
-- **Deep Learning - Brain Tumor Segmentation:** Built an end-to-end deep learning pipeline for segmenting and classifying 30 types of brain tumors from MRI scans.
+- **Deep Learning - Brain Tumor Segmentation:** Built a deep learning pipeline for segmenting and classifying brain tumors from MRI scans.
 
 ---
 
