@@ -36,7 +36,7 @@
 ### 💻 Tech Stack
 
 #### 🚀 Ngôn ngữ lập trình
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
@@ -90,7 +90,7 @@
 </div>
 
 #### 📊 AI & Khoa học Dữ liệu
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
@@ -148,7 +148,7 @@
 </div>
 
 #### 🗄️ Cơ sở dữ liệu & DevOps / Cloud
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
@@ -194,7 +194,7 @@
 </div>
 
 #### 🛠️ Công cụ & Hệ điều hành
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td align="center" width="90">
@@ -269,8 +269,8 @@
 
 ---
 
-### 📫 Kết nối với mình:
-<p align="left">
+### 📫 Kết nối với mình
+<p align="center">
   <a href="https://www.facebook.com/kimthinh.vobach" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/kimthin_2102/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/kimthinh21" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -282,7 +282,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 
 <p align="center">
